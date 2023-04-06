@@ -6,6 +6,8 @@
 [![LinkedId](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=fff&color=0274b3)](https://www.linkedin.com/in/nahuel-developer/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=fff&color=343941)](https://github.com/Nahuel-DevOne)
 
+
+![](img/portada.png)
 ## **Información:**
 
 Se inicia con un curso de Python para aprender el lenguaje en el que se va a trabajar. Posteriormente, se conocen sus librerías para introducirse en la ciencia de datos, y en el último tramo, el aprendizaje automático.
@@ -88,39 +90,24 @@ características.
 12.  Procesamiento de Texto y Lenguaje Natural.
 13.  Aplicaciones en contextos comerciales, científicos, financieros, médicos y otros.
 
-## **Proyecto** (En proceso)
+## *`Proyecto`* (En proceso)
 
 - [![App](https://img.shields.io/badge/App-informational?style=for-the-badge&logo=netlify&logoColor=fff&color=23272d)](https://...)
 
 <!-- - No tiene incorporada ninguna base de datos -->
 
+## **Equipo Docente y ayudantes:**
+![](img/profesores-ayudantes.png)
+
 ## **Desarrollado con:**
 
-- [Colab](https://colab.research.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-<!-- - [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
-- [Tailwind](https://tailwindcss.com/)
-- [Bootstrap](https://getbootstrap.com/)
-- [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
-- [vite](https://vitejs.dev/guide/)
-- [React](https://reactjs.org/)
-- [TypeScript](https://www.typescriptlang.org/) -->
+- [Colab](https://colab.research.google.com/)
+- [Jupyter](https://jupyter.org/)
+- [Python](https://www.python.org/)
 
 
-## **Screenshots:**
+<!-- Hecho con amor -->
+Hecho con ❤️ `Nahuel-DevOne`
 
-<!-- ### 1. Home:
-## ![](public/images/flujo-compra/home.png)
-
-### 2. Detalle del producto seleccionado:
-
-## ![](public/images/flujo-compra/detalle-producto.png)
-
-### 3. Carrito de compras, con productos seleccionados:
-
-## ![](public/images/flujo-compra/carrito-compra.png) -->
-
-
-  <!-- Hecho con amor -->
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Nahuel-Devone/)
